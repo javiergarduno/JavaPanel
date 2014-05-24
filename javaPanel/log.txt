@@ -1,0 +1,21 @@
+Fri May 23 19:04:31 CDT 2014   Inicio de Ejecución
+Fri May 23 19:05:45 CDT 2014   Inicio de Ejecución
+Fri May 23 19:06:17 CDT 2014   Inicio de Ejecución
+Fri May 23 19:07:16 CDT 2014   Inicio de Ejecución
+Fri May 23 19:07:26 CDT 2014   Inicio de Ejecución
+Fri May 23 19:08:18 CDT 2014   Inicio de Ejecución
+Fri May 23 19:12:23 CDT 2014   Inicio de Ejecución
+Fri May 23 19:12:39 CDT 2014   Inicio de Ejecución
+Fri May 23 19:13:18 CDT 2014   Inicio de Ejecución
+Fri May 23 19:19:19 CDT 2014   Inicio de Ejecución
+Fri May 23 19:20:52 CDT 2014   Inicio de Ejecución
+Fri May 23 19:24:18 CDT 2014   Inicio de Ejecución
+Fri May 23 19:25:06 CDT 2014   Inicio de Ejecución
+Fri May 23 19:25:34 CDT 2014   Inicio de Ejecución
+Fri May 23 19:26:12 CDT 2014   Inicio de Ejecución
+Fri May 23 19:26:31 CDT 2014   Inicio de Ejecución
+Fri May 23 19:26:50 CDT 2014   Inicio de Ejecución
+Fri May 23 19:27:04 CDT 2014   Inicio de Ejecución
+Fri May 23 19:42:22 CDT 2014   copia de archivos hecha
+Fri May 23 19:42:22 CDT 2014   tranformación de archivos relaizada con exito
+Fri May 23 19:42:22 CDT 2014   Error critico - no se encuentran archivos
